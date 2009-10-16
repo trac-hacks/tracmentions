@@ -1,0 +1,4 @@
+*.pyc
+TracMentions.egg-info
+build
+dist
